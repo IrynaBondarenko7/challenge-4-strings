@@ -7,5 +7,3 @@ function reverseWords(words) {
 }
 
 module.exports = { reverseWords };
-
-//reverseWords('hello world') // returns 'world hello'
